@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm MEIYAZHAGAN</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 
-- 🌱 I’m currently learning **Full Stack Development Course**
+- 🌱 I’m **Master of Computer Science and Engineer**
 
 - 📫 How to reach me **meiyazhaganmailbox@gmail.com**
 
